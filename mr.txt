@@ -1,0 +1,12 @@
+==== INFO
+NAME,MengRan
+ID,mr
+EMAIL,mengran@hotmail.com
+PHONE,111111111
+PREFER,Email
+==== Balance
+BALANCE,300.00
+==== Transactions
+Deposit, 100.00, 2017-06-15 21:39:37.143716
+Deposit, 230.00, 2017-06-15 21:39:42.776706
+Withdrawal, 30.00, 2017-06-15 21:39:49.105209
